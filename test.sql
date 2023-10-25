@@ -1,3 +1,3 @@
 SELECT * FROM table;
-SELECT MAX(date) FROM table;
+SELECT firstname, lastname from users;
 SELECT * FROM table2;
